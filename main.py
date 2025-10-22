@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-client = OpenAI(api_key="YOUR_OPENAI_API_KEY")
+client = OpenAI(api_key="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")
 
 print("🤖 Morsm AI is online! Type 'exit' to quit.\n")
 
